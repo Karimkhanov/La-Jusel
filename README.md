@@ -9,7 +9,7 @@
 
 # How to run the project?
 
-- [ ] \(Optional) First clone this project to your machine
+1. [x] First clone this project to your machine
 ```
 git clone https://github.com/Karimkhanov/La-Jusel.git
 ```
