@@ -4,7 +4,7 @@
 + Karimkhanov Tursynkhan
 
 # Usages:
-+ [^1]: Django 
+[^1]: Django 
 + Angular
 
 # How to run the project?
