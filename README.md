@@ -1,5 +1,5 @@
 # La-Jusel[WebDev Project]
-![WhatsApp Image 2024-04-02 at 8 51 18 AM](https://github.com/Karimkhanov/La-Jusel/assets/123242644/011823a1-9f4d-4ce2-b3d0-a00cf5f9ea2f)
+![pixlr-image-generator-1eb99f22-e731-47a0-9c02-85d6b7021636](https://github.com/Karimkhanov/La-Jusel/assets/123242644/e9d60d3c-d88f-434a-8556-717d67796db4)
 
 # Author: 
 + Karimkhanov Tursynkhan
