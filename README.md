@@ -9,8 +9,8 @@
 
 # How to run the project?
 
-1. [ ] First clone this project to your machine
+1. [ ] \(Optional) First clone this project to your machine
 ```
-git clone
+git clone https://github.com/Karimkhanov/La-Jusel.git
 ```
    
