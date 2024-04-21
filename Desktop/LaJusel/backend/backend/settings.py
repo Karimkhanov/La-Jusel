@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     # local apps
 
     'menu',
+    'showtime',
+    'users'
 
 ]
 
