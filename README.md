@@ -29,14 +29,14 @@ npm install -g @angular/cli
 
 # How to run the project?
 
-1. [x] 
+1. 
 ```
 For Django:
 cd backend
 python manage.py runserver
 
 ```
-2. [x] 
+2.  
 ```
 For Angular:
 cd frontend
