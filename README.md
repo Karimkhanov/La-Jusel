@@ -10,8 +10,20 @@
 
 # How to run the project?
 
-1. [x] First clone this project to your machine
+1. [x] Clone this project to your machine
 ```
 git clone https://github.com/Karimkhanov/La-Jusel.git
+```
+2. [x] Install requiered enviroments
+```
+For Django:
+pip install djangorestframework-simplejwt
+pip install djangorestframework
+pip install django-cors-headers
+
+```
+```
+For Angular:
+npm install -g @angular/cli
 ```
    
