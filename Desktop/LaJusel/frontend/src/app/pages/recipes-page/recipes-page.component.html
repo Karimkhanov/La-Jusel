@@ -1,0 +1,11 @@
+<div class="wrapper">
+  <h2>Recipes</h2>
+
+  <div class="wrapper-list">
+    <mat-grid-list cols="4" rowHeight="1:1">
+      <mat-grid-tile *ngFor="let recipe of recipes" class="wrapper-list-item">
+        <app-recipe-item [recipe]="recipe"></app-recipe-item>
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>
+</div>

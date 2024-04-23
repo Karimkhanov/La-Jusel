@@ -1,0 +1,14 @@
+<div class="wrapper">
+  <h2>{{ category_name }}'s recipes</h2>
+
+  <div class="wrapper-list">
+    <div class="wrapper-list-empty" *ngIf="recipes.length === 0">
+      <p>List is empty</p>
+    </div>
+    <mat-grid-list cols="4" rowHeight="1:1">
+      <mat-grid-tile *ngFor="let recipe of recipes" class="wrapper-list-item">
+        <app-recipe-item [recipe]="recipe"></app-recipe-item>
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>
+</div>
