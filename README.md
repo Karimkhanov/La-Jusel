@@ -8,7 +8,7 @@
 + Django 
 + Angular
 
-# How to run the project?
+# How to clone the project?
 
 1. [x] Clone this project to your machine
 ```
@@ -26,4 +26,22 @@ pip install django-cors-headers
 For Angular:
 npm install -g @angular/cli
 ```
+
+# How to run the project?
+
+1. [x] 
+```
+For Django:
+cd backend
+python manage.py runserver
+
+```
+2. [x] 
+```
+For Angular:
+cd frontend
+ng serve -o
+```
+
+
    
